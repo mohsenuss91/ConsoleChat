@@ -1,0 +1,9 @@
+#folders
+.idea/
+lib/
+libs/
+out/
+#files
+*.iml
+*.log
+*.class
